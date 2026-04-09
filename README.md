@@ -1,35 +1,16 @@
-<h1 align="center">⚔️ Offensive Security | Red Team ⚔️</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&color=0FF0FC&center=true&vCenter=true&lines=Offensive+Security+Operator;Red+Team+Specialist;Adversarial+Mindset">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&center=true&vCenter=true&lines=Breaking+Systems;Thinking+Like+an+Adversary;Offensive+Security+Specialist">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0ff0fc?style=for-the-badge&logo=ghost&logoColor=black">
+  <img src="https://img.shields.io/badge/FOCUS-REDTEAM-ff003c?style=for-the-badge&logo=target&logoColor=black">
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-7928CA?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 Sobre mim
-
-Atuo com foco em **Offensive Security**, simulando ataques reais para identificar falhas críticas antes que adversários façam.
-
-- Mentalidade: adversarial
-- Abordagem: orientada a dados
-- Foco: exploração prática, não teoria
-
----
-
-## ⚙️ Stack Técnica
-
 ```bash
-> Recon & Enumeração:
-nmap, amass, ffuf, gobuster
-
-> Exploração:
-metasploit, burpsuite, manual exploitation
-
-> Pós-exploração:
-mimikatz, bloodhound, impacket
-
-> Infra & Sistemas:
-Linux, Windows Server, Active Directory
-
-> Network:
-TCP/IP, VLAN, Firewall, VPN, IDS/IPS
+> initializing profile...
+> loading offensive modules...
+> access granted.
