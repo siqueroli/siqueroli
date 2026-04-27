@@ -17,7 +17,7 @@
 **Siqueroli** | Especialista em **Red Team** & **Pentest**.
 Focado em quebrar barreiras, simular ameaças reais e expor vulnerabilidades antes que os "black hats" o façam.
 
--   💀 **Current_Mission:** Operação `Opportunity CyberHub` (SOC Automatizado com IA Local).
+-   💀 **Current_Mission:** Operação (SOC Automatizado com IA Local).
 -   🔥 **Core_Skills:** Active Directory Exploitation, EDR Evasion, C2 Infrastructure.
 -   🪪 **Credentials:** B.S. CS (Estácio) | Eletrônica (Bento Quirino).
 
